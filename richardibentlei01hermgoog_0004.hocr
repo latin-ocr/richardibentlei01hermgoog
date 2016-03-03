@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./richardibentlei01hermgoog_0004.png"; bbox 0 0 2890 4778; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 2865 984 2877 1215">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 2865 984 2877 1215">
+     <span class='ocr_line' id='line_1_1' title="bbox 2865 984 2877 1215; baseline 115.5 -231"><span class='ocrx_word' id='word_1_1' title='bbox 2865 984 2877 1105; x_wconf 51' lang='lat' dir='ltr'>*Qu-¹1!</span> <span class='ocrx_word' id='word_1_2' title='bbox 2867 1120 2876 1157; x_wconf 55' lang='lat'>11</span> <span class='ocrx_word' id='word_1_3' title='bbox 2871 1174 2876 1183; x_wconf 66' lang='lat' dir='ltr'><em>n</em></span> <span class='ocrx_word' id='word_1_4' title='bbox 2875 1208 2876 1215; x_wconf 38' lang='grc' dir='ltr'>η</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 2409 4556 2444 4572">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 2409 4556 2444 4572">
+     <span class='ocr_line' id='line_1_2' title="bbox 2409 4556 2444 4572; baseline -0.057 0"><span class='ocrx_word' id='word_1_5' title='bbox 2409 4556 2444 4572; x_wconf 60' lang='lat' dir='ltr'>Is</span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
